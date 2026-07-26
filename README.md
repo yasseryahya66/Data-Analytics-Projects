@@ -49,13 +49,3 @@ Welcome to my data analytics portfolio. This repository contains Python-based pr
 - Created time-based features to analyze seasonal sales patterns.
 - Identified top-performing categories, customer trends, and revenue drivers.
 
-## About Me
-
-**Yassir Al-Masoudi**
-
-Data Analytics | Python | Exploratory Data Analysis
-
-📍 Frankfurt (Oder), Germany
-
-GitHub: [Your GitHub Profile Link]
-LinkedIn: [Your LinkedIn Profile Link]
