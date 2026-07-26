@@ -1,6 +1,4 @@
 # Data-Analytics-Projects
-# Data Analytics Portfolio
-
 Welcome to my data analytics portfolio. This repository contains Python-based projects focused on data cleaning, exploratory data analysis (EDA), statistical analysis, and extracting business insights from real-world datasets.
 
 ## Skills & Tools
